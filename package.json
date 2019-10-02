@@ -1,0 +1,30 @@
+{
+  "name": "google-analytics",
+  "version": "1.0.0",
+  "description": "Demonstration of google analytics.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "keywords": [
+    "google analytics",
+    "google",
+    "analytics",
+    "node"
+  ],
+  "author": "Dere Sagar",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "email-validator": "^1.1.1",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.0.9",
+    "morgan": "^1.9.1",
+    "serve-favicon": "^2.4.5"
+  },
+  "license": "MIT"
+}
