@@ -15,8 +15,9 @@ This is simple Google Analytics web application for measuring website traffic.
 
 6. Then visit to your [Google Analytics account](https://marketingplatform.google.com/about/analytics/), Then go to Realtime -> Content.You will [show active users](https://github.com/sagardere/googleAnalytics/blob/master/public/images/ActiveUser.png) on site, Active Page etc information.
 
-In conclusion
+In conclusion, 
 I hope you've enjoyed this beginner's introduction to Google Analytics for beginners. If you're a beginner and have a burning questions, please ask in the comments. I'll be happy to help!
 
 More information - [Visit](https://moz.com/blog/absolute-beginners-guide-to-google-analytics#comments)
 
+GOOD DAY !!
